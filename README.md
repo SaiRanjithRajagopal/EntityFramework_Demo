@@ -8,3 +8,5 @@ Microsoft.EntityFrameworkCore.Tools</p>
 <p>add-migration initialmigration</br>
 Update-Database</p>
 
+<h1>Youtube Channel</h1>
+<p>Code Semantic</p>
