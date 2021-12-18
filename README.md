@@ -6,7 +6,8 @@ Microsoft.EntityFrameworkCore.Tools</p>
 
 <h1>Commands</h1>
 <p>add-migration initialmigration</br>
-Update-Database</p>
+Update-Database</br>
+update-database initialmigration - To roll back to previous migration</p>
 
 <h1>Youtube Channel</h1>
 <p>Code Semantic</p>
