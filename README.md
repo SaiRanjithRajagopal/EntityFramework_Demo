@@ -5,7 +5,7 @@
 Microsoft.EntityFrameworkCore.Tools</p>
 
 <h1>Commands</h1>
-<table>
+<table style="width:100%">
     <tr>
     <th>Commands</th>
     <th>Example</th>
