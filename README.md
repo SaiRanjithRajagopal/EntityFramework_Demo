@@ -37,4 +37,8 @@ Microsoft.EntityFrameworkCore.Tools</p>
 <p>Code Semantic</p>
 <p>kudvenkat</p>
 
+<h1>URL</h1>
+<p>https://www.entityframeworktutorial.net/code-first/what-is-code-first.aspx</p>
+
+
 
