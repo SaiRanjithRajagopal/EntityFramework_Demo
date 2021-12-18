@@ -6,13 +6,11 @@ Microsoft.EntityFrameworkCore.Tools</p>
 
 <h1>Commands</h1>
 <table>
-  <th>
     <tr>
     <td>Commands</td>
     <td>Example</td>
     <td>Comments</td>
-      </tr>
-  </th>
+    </tr>
   <tr>
     <td>add-migration <Migration Name without space></td>
     <td>add-migration InitialMigration</td>
