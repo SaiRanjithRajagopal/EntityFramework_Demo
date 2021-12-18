@@ -12,7 +12,7 @@ Microsoft.EntityFrameworkCore.Tools</p>
     <th>Comments</th>
     </tr>
   <tr>
-    <td>add-migration <Migration Name without space></td>
+    <td>add-migration -- Migration Name without space --</td>
     <td>add-migration InitialMigration</td>
     <td>This will create a migration record in application but it will update the changes in database</td>
   </tr>
