@@ -16,6 +16,11 @@ Microsoft.EntityFrameworkCore.Tools</p>
     <td>add-migration InitialMigration</td>
     <td>This will create a migration record in application but it will update the changes in database</td>
   </tr>
+   <tr>
+    <td>add-migration Migration Name without space. (Best Approach)</td>
+    <td>add-migration InitialMigration -Context <<DBContext Name>></td>
+    <td>This will create a migration record in application but it will update the changes in database</td>
+  </tr>
   <tr>
     <td>Update-Database</td>
     <td>Update-Database</td>
@@ -32,7 +37,7 @@ Microsoft.EntityFrameworkCore.Tools</p>
     <td>This will roll back the changes only on the solution. If the changes applied to the DB, </td>
   </tr>
   <tr>
-    <td>remove-migration</td>
+    <td>remove-migration (Best Approach)</td>
     <td>remove-migration -force</td>
     <td>This will roll back the changes only on the solution. If the changes applied to the DB, </td>
   </tr>
