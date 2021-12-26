@@ -31,6 +31,11 @@ Microsoft.EntityFrameworkCore.Tools</p>
     <td>remove-migration</td>
     <td>This will roll back the changes only on the solution. If the changes applied to the DB, </td>
   </tr>
+  <tr>
+    <td>remove-migration</td>
+    <td>remove-migration -force</td>
+    <td>This will roll back the changes only on the solution. If the changes applied to the DB, </td>
+  </tr>
 </table>
 
 <h1>Youtube Channel</h1>
